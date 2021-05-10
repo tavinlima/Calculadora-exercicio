@@ -1,0 +1,16 @@
+C:\Users\Silvana\Desktop\BakendFuncao\CalculadoraFuncao\bin\Debug\net5.0\CalculadoraFuncao.exe
+C:\Users\Silvana\Desktop\BakendFuncao\CalculadoraFuncao\bin\Debug\net5.0\CalculadoraFuncao.deps.json
+C:\Users\Silvana\Desktop\BakendFuncao\CalculadoraFuncao\bin\Debug\net5.0\CalculadoraFuncao.runtimeconfig.json
+C:\Users\Silvana\Desktop\BakendFuncao\CalculadoraFuncao\bin\Debug\net5.0\CalculadoraFuncao.runtimeconfig.dev.json
+C:\Users\Silvana\Desktop\BakendFuncao\CalculadoraFuncao\bin\Debug\net5.0\CalculadoraFuncao.dll
+C:\Users\Silvana\Desktop\BakendFuncao\CalculadoraFuncao\bin\Debug\net5.0\ref\CalculadoraFuncao.dll
+C:\Users\Silvana\Desktop\BakendFuncao\CalculadoraFuncao\bin\Debug\net5.0\CalculadoraFuncao.pdb
+C:\Users\Silvana\Desktop\BakendFuncao\CalculadoraFuncao\obj\Debug\net5.0\CalculadoraFuncao.csprojAssemblyReference.cache
+C:\Users\Silvana\Desktop\BakendFuncao\CalculadoraFuncao\obj\Debug\net5.0\CalculadoraFuncao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Silvana\Desktop\BakendFuncao\CalculadoraFuncao\obj\Debug\net5.0\CalculadoraFuncao.AssemblyInfoInputs.cache
+C:\Users\Silvana\Desktop\BakendFuncao\CalculadoraFuncao\obj\Debug\net5.0\CalculadoraFuncao.AssemblyInfo.cs
+C:\Users\Silvana\Desktop\BakendFuncao\CalculadoraFuncao\obj\Debug\net5.0\CalculadoraFuncao.csproj.CoreCompileInputs.cache
+C:\Users\Silvana\Desktop\BakendFuncao\CalculadoraFuncao\obj\Debug\net5.0\CalculadoraFuncao.dll
+C:\Users\Silvana\Desktop\BakendFuncao\CalculadoraFuncao\obj\Debug\net5.0\ref\CalculadoraFuncao.dll
+C:\Users\Silvana\Desktop\BakendFuncao\CalculadoraFuncao\obj\Debug\net5.0\CalculadoraFuncao.pdb
+C:\Users\Silvana\Desktop\BakendFuncao\CalculadoraFuncao\obj\Debug\net5.0\CalculadoraFuncao.genruntimeconfig.cache
